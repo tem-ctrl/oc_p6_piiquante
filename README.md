@@ -1,2 +1,3 @@
-# oc_p6_piiquante
-Projet 6 - Parcours Développeur Web OpenClassrooms
+# Projet : Construisez une API sécurisée pour une application d'avis gastronomiques
+
+
