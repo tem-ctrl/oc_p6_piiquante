@@ -36,3 +36,16 @@ Pièce Jointe : [Requirements](assets/Requirements_DW_P6.pdf).
 
 # Comment exécuter ce projet ?
 
+1 - Cloner ce repo dans votre ordinateur
+
+`git clone https://github.com/tem-ctrl/oc_p6_piiquante.git`
+
+2 - Ouvrir un terminal dans le dossier `backend` et exécuter
+
+`npm start`
+
+3 - Ouvrir un autre terminal dans le dossier `frontend` et exécuter la même commande
+
+`npm start`
+
+4 - Ouvrir un navigateur à l'adresse `http://localhost:3000` et voilà !!!
