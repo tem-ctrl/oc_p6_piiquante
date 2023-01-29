@@ -26,6 +26,7 @@ Vous trouverez ci-joint les spécifications pour l'API. Vous pouvez également t
 
 Merci de faire particulièrement attention aux exigences en matière de sécurité. Nous avons récemment été victimes d'attaques sur notre site web et nous voulons être sûrs que l'API de cette application est construite selon des pratiques de code sécurisées. Tous les mots de passe des utilisateurs recueillis par l'application doivent être protégés !
 ~~~
+Pièce Jointe : [Requirements](assets/Requirements_DW_P6.pdf).
 
 # Comment exécuter ce projet ?
 
